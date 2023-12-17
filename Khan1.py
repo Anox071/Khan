@@ -892,12 +892,4 @@ def auto():
 
     input('  Press enter to back ')
 
-    khan1()
-
-    
-
-    
-
-    
-
-khan1()
+    Khan()
